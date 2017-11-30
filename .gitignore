@@ -1,10 +1,13 @@
-## KNIME files
+# Datasets #
+*.csv
+
+# KNIME files #
 .knimeLock
 .project
 .savedWithData
 workflowset.meta
 
-## KNIME directories containing node data
+# KNIME directories containing node data #
 internal/
 port_*/
 .metadata/
