@@ -126,12 +126,18 @@
 <entry key="destPort" type="xint" value="1"/>
 </config>
 <config key="connection_6">
+<entry key="sourceID" type="xint" value="153"/>
+<entry key="destID" type="xint" value="-1"/>
+<entry key="sourcePort" type="xint" value="3"/>
+<entry key="destPort" type="xint" value="2"/>
+</config>
+<config key="connection_7">
 <entry key="sourceID" type="xint" value="154"/>
 <entry key="destID" type="xint" value="155"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 </config>
-<config key="connection_7">
+<config key="connection_8">
 <entry key="sourceID" type="xint" value="155"/>
 <entry key="destID" type="xint" value="-1"/>
 <entry key="sourcePort" type="xint" value="2"/>
@@ -165,6 +171,13 @@
 <entry key="name" type="xstring" value="Connected to: Second partition (remaining rows)"/>
 <config key="type">
 <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+</config>
+</config>
+<config key="outport_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="name" type="xstring" value="Connected to: Random Forest Model"/>
+<config key="type">
+<entry key="object_class" type="xstring" value="org.knime.base.node.mine.treeensemble2.model.TreeEnsembleModelPortObject"/>
 </config>
 </config>
 </config>

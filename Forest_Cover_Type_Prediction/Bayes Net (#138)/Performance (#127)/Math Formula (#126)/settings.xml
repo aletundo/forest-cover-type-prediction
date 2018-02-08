@@ -6,9 +6,9 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="append_column" type="xboolean" value="true"/>
-<entry key="replaced_column" type="xstring" value="Seletected-attributes_CV"/>
 <entry key="expression" type="xstring" value="$Seletected-attributes_CV$/100"/>
+<entry key="replaced_column" type="xstring" value="Seletected-attributes_CV"/>
+<entry key="append_column" type="xboolean" value="true"/>
 <entry key="convert_to_int" type="xboolean" value="false"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
@@ -38,6 +38,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="505cb1cd-2fc9-4e00-91bf-b87e5b215837"/>
+<entry key="file_store_id" type="xstring" value="b132f999-f33f-420b-9f80-67e89e9f1aac"/>
 </config>
 </config>

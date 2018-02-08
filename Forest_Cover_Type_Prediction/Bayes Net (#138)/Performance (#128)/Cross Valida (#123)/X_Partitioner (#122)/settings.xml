@@ -15,7 +15,7 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="maxIterations"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="0"/>
+<entry key="value" type="xint" value="-1"/>
 </config>
 <config key="Loop_Execute_3">
 <entry key="type" type="xstring" value="loopcontext_execute"/>
@@ -66,19 +66,19 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 7144, Cols: 55"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 5715, Cols: 55"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 <config key="port_2">
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 793, Cols: 55"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 635, Cols: 55"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="22bfd794-c5a5-46a5-89a4-a2e2b20c3ee2"/>
+<entry key="file_store_id" type="xstring" value="b8ee0e23-a9d4-4d9e-b4d7-45d75f373f76"/>
 </config>
 </config>
