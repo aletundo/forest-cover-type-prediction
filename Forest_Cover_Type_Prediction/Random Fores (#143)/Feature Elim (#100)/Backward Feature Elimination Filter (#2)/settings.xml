@@ -6,7 +6,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="nrOfFeatures" type="xint" value="12"/>
+<entry key="nrOfFeatures" type="xint" value="10"/>
 <entry key="includeTargetColumn" type="xboolean" value="true"/>
 <entry key="thresholdMode" type="xboolean" value="false"/>
 <entry key="errorThreshold" type="xdouble" value="0.5"/>
@@ -33,12 +33,12 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 9072, Cols: 13"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 9072, Cols: 11"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="15fe8159-323d-40f8-9536-97d88abf6453"/>
+<entry key="file_store_id" type="xstring" value="3998366d-6f5c-4e00-b399-aac2afdb002e"/>
 </config>
 </config>
